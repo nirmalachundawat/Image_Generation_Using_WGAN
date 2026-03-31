@@ -123,5 +123,7 @@ sqrt(.) = matrix square root
 ---
 
 ##  Conclusion
+
 This project demonstrates a complete pipeline for **image generation using GANs**, progressing from standard DCGAN to a more stable **WGAN-GP implementation**, highlighting practical differences in training stability and output quality.
+
 ---
